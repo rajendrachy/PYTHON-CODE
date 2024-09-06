@@ -2,20 +2,34 @@
 # print(23)
 # print(5+10)
 
+# print("RAjendra chaudhary." , "My age is 19.") #print in the same line
+
 
 # name = "Arjun rana"
-# age = 20
-# # print("my name is: ", name)
-# # print("My age is: ", age)
+# age = 20 # = --->> Assignment Operator
+# print("name") # name
+# print("my name is: ", name) #Arjun rana
+# print("My age is: ", age) #20
 
-# print(type(age))
 # print(type(name))
+# print(type(age))
 
 
+
+# name = "Rajendra"
+# age = 19
+# age2 = age
+# print(age2)
+
+
+
+name1 = 'Rajendra' # valid
+name2 = "Rajendra" # valid
+name3 = '''Valid''' # valid
 
 # ...............Data type.................
 
-age = 23
-old = True
-print(type(age))
-print(type(old))
+# age = 23
+# old = True
+# print(type(age))
+# print(type(old))
