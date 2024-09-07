@@ -6,3 +6,9 @@ print(str1) #escape character --> \n for next line
 
 # str3 = 'Rajendra Chaudhary'  #allowed
 # str4 = """Rajendra Chaudhary"""  #allowed
+
+
+
+# "this is a Rajendra's" #valid
+# 'this is a Rajendra's' # not valid
+# 'this is a Rajendra"s' # valid
