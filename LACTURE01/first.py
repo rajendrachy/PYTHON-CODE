@@ -33,3 +33,11 @@ name3 = '''Valid''' # valid
 # old = True
 # print(type(age))
 # print(type(old))
+
+
+
+# What is the order of precedence in python?
+# ans : Explanation: For order of precedence, just remember this PEMDAS (similar to BODMAS).
+# ans : Parentheses, Exponential, Multiplication, Division, Addition, Subtraction
+
+# pip is a package manager for python. Which is also called Preferred Installer Program.

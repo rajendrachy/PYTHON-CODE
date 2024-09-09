@@ -1,0 +1,4 @@
+Hi everyone
+we are learning file i/o
+Using a Javascript
+i like programming in the jave
